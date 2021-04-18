@@ -1,0 +1,50 @@
+body{
+    background-color: gray;
+    margin: 0px;
+}
+
+.wrapper {
+    width: 60%;
+    height: 100%;
+    margin: auto;
+    margin-bottom: 0px;
+    margin-top: 0px;
+    background-color: white;
+    padding: 80px;
+}
+
+header {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+
+header h1, header p, header div {
+    text-align: center;
+}
+
+.phone-mail-split {
+    display: flex;
+    justify-content: space-between;
+}
+
+h3 {
+    text-decoration: underline;
+}
+
+.data {
+    padding-left: 70px;
+}
+
+.heading {
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+#sidehustle {
+    margin-bottom: 40px;
+}
+
+.top {
+    margin-top: 0px;
+}
